@@ -5,13 +5,14 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
+    "@emotion/react": "11.14.0",
+    "@emotion/styled": "11.14.0",
+    "@mui/material": "7.0.1",
+    "@mui/x-charts": "7.28.0",
+    "ajv": "8.17.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "^5.0.0",
-    "@mui/x-charts": "7.28.0",
-    "@mui/material": "7.0.1",
-    "@emotion/styled": "11.14.0",
-    "@emotion/react": "11.14.0"
+    "react-scripts": "^5.0.0"
   },
   "devDependencies": {
     "@types/react": "19.0.0",
